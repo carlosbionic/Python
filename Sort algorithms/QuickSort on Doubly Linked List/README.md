@@ -1,3 +1,3 @@
 # Quicksort algorithm
 
-## Quicksort using doubly linked lists in Python
+### Quicksort using doubly linked lists in Python
